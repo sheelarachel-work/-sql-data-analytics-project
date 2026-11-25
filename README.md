@@ -2,7 +2,6 @@
 
 ```
 sql-data-analytics-project/
-├── 00_setup/                        the setup guide, and the one-click Docker start for Mac
 ├── 01_datasets/                     the data, as a backup and as CSV files
 │   ├── DataWarehouseAnalytics.bak   the database, ready to restore
 │   └── csv-files/                   the same data, to build the database yourself
