@@ -15,7 +15,7 @@ sql-data-analytics-project/
 
 ## 🗺️ What you build
 
-![The project roadmap](docs/Project Roadmap.jpg)
+![The project roadmap](docs/Project%20Roadmap.jpg)
 
 The project has two parts, and the scripts follow them:
 
